@@ -2,7 +2,7 @@
     box-sizing:border-box;
  }
 body {
-    background-image:none;
+    background-image:url("https://bit.ly/2J1rbsU");
     padding:10px;
     font-family: Arial;
     display:flex;
@@ -63,3 +63,4 @@ img{
 #ty{
     text-align:right;
 }
+

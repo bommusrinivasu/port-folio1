@@ -22,5 +22,5 @@ Building a web page from scratch Basics of Cascading Style Sheets (CSS) Basic we
 
 We're going to continue building out your website by adding a portfolio page where you can show off bueaty of nature . We'll also spruce up the site by further developing the design with CSS.
 
-To complete the assignment, below you'll find numbered TODO lesson steps. While reading this lesson, whenever you come across a TODO step, you are expected to implement this step, which may require you to create a file, or insert some HTML, CSS or JavaScript in the appropriate place. Please follow the instructions closely. Sometimes, however, we may be showing you code examples to make a point, so you only need to add code if we're explicitly telling you to do a lesson step, so please be aware of the actual lesson steps.
-
+In this project.I displayed the different images of nature with their corresponding text and also the links.
+These links will navigate into the wikipedia webpage when user clicks the link.

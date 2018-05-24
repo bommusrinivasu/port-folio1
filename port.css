@@ -2,7 +2,7 @@
     box-sizing:border-box;
  }
 body {
-    background-image:url("https://bit.ly/2J1rbsU");
+    background-image:url(https://bit.ly/2J1rbsU);
     padding:10px;
     font-family: Arial;
     display:flex;
@@ -13,13 +13,16 @@ body {
     max-width:1000px;
     margin: auto;
 }
+
 h1 {
     font-size: 50px;
     word-break: break-all;
 }
+
 img{
     height:200px;
 }
+
 
 .row {
     margin: 8px -16px;
@@ -44,8 +47,8 @@ img{
 }
 /* Content */
 .content {
-    background-color:white;
-    padding:10px;
+    background-color: white;
+    padding: 10px;
    
 }
 /* Responsive layout - makes a two column-layout instead of four columns */
@@ -60,7 +63,7 @@ img{
         width: 100%;
     }
 }
-#ty{
+#ty {
     text-align:right;
 }
 
